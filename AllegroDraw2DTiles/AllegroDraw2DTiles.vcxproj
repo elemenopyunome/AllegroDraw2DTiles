@@ -145,6 +145,9 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\GameArt\Bitmaps\dungeon_tiles_0.bmp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\AllegroDeps.1.12.0\build\native\AllegroDeps.targets" Condition="Exists('..\packages\AllegroDeps.1.12.0\build\native\AllegroDeps.targets')" />
