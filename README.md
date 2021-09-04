@@ -8,6 +8,6 @@ Application Goals:
 
 -Load a bitmap from a sprite file
 
-Image courtesy of Buch from Open Game Art (https://opengameart.org/)
+Image courtesy of Buch (Michele Bucelli) from Open Game Art (https://opengameart.org/)
 
 Buch's profile can be found here https://opengameart.org/users/buch
